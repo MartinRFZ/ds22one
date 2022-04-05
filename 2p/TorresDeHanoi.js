@@ -11,7 +11,7 @@
  *
  * Alumnos:
  * Martin Ramses Flores Zepeda [2B]
- * Vivas Rosales Neck Manuel [2B]
+ * Neck Manuel Vivas Rosales [2B]
  */
 class Torre {
   constructor(unidades = []) {
