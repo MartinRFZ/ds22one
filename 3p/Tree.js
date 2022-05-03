@@ -37,9 +37,8 @@ function inorder(p){
 
 function posorder(p){
   if(n!==null){
-    prosorder(n.l)
-    prosorder(n.r)
+    posorder(n.l)
+    posorder(n.r)
     console.log(n.d)
   }
 }
-    
